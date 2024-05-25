@@ -4,7 +4,6 @@
 Mysql server 
 Mysql workbench
 
-# Pizza Sales Project
 # Overview
 The Pizza Sales Project is a data analysis project aimed at analyzing and extract sales data from a pizza restaurant chain. This project utilizes SQL for data extraction. The goal of this project is to provide insights and actionable information to help the pizza restaurant chain optimize its operations, improve sales, and enhance customer satisfaction.
 
