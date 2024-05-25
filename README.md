@@ -1,8 +1,8 @@
 # Pizza-sales-sql-project
 
 # Used tools
-Mysql server 
-Mysql workbench
+* Mysql server 
+* Mysql workbench
 
 # Overview
 The Pizza Sales Project is a data analysis project aimed at analyzing and extract sales data from a pizza restaurant chain. This project utilizes SQL for data extraction. The goal of this project is to provide insights and actionable information to help the pizza restaurant chain optimize its operations, improve sales, and enhance customer satisfaction.
@@ -20,18 +20,18 @@ Once the data is prepared, various SQL queries are written to perform in-depth d
 
 
 - Retrieve the total number of orders placed.
--Calculate the total revenue generated from pizza sales.
--Identify the highest-priced pizza.
--Identify the most common pizza size ordered.
--List the top 5 most ordered pizza types along with their quantities.
--Join the necessary tables to find the total quantity of each pizza category ordered.
--Determine the distribution of orders by hour of the day.
--Join relevant tables to find the category-wise distribution of pizzas.
--Group the orders by date and calculate the average number of pizzas ordered per day.
--Determine the top 3 most ordered pizza types based on revenue.
--Calculate the percentage contribution of each pizza type to total revenue.
--Analyze the cumulative revenue generated over time.
--Determine the top 3 most ordered pizza types based on revenue for each pizza categor
+- Calculate the total revenue generated from pizza sales.
+- Identify the highest-priced pizza.
+- Identify the most common pizza size ordered.
+- List the top 5 most ordered pizza types along with their quantities.
+- Join the necessary tables to find the total quantity of each pizza category ordered.
+- Determine the distribution of orders by hour of the day.
+- Join relevant tables to find the category-wise distribution of pizzas.
+- Group the orders by date and calculate the average number of pizzas ordered per day.
+- Determine the top 3 most ordered pizza types based on revenue.
+- Calculate the percentage contribution of each pizza type to total revenue.
+- Analyze the cumulative revenue generated over time.
+- Determine the top 3 most ordered pizza types based on revenue for each pizza categor
 
 # 5. Insights and Recommendations
 Based on the analysis, actionable insights and recommendations are provided to the pizza restaurant chain. These insights can help in making informed decisions to improve sales, marketing strategies, and overall business performance.
