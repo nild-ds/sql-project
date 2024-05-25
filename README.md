@@ -19,7 +19,7 @@ SQL is used to transform the raw data into a format suitable for analysis. This 
 Once the data is prepared, various SQL queries are written to perform in-depth data analysis. This include:
 
 
--Retrieve the total number of orders placed.
+- Retrieve the total number of orders placed.
 -Calculate the total revenue generated from pizza sales.
 -Identify the highest-priced pizza.
 -Identify the most common pizza size ordered.
